@@ -8,10 +8,10 @@ This repository contains information related to the tool **aPET** presented at F
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 
 * [The Official Project Page, including source code](http://tools.hats-project.eu)
-* [The Tool on the Visual Studio Gallery](https://visualstudiogallery.msdn.microsoft.com/06f39a31-20ce-408c-afee-8a02b484db1c)
+* [Link to download the plugin](http://tools.hats-project.eu/update-site/)
 * [A Video of the Tool](http://tools.hats-project.eu/movies/installplugin.mp4)
 
-In this repository, for ExampleTool you will find:
+In this repository, for aPET, you will find:
 
 * :x: Source code (not available)
 * :white_check_mark: [The original tool](SomeExecutableInTheRepo) (available)
