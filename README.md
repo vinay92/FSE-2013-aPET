@@ -7,7 +7,7 @@ This repository contains information related to the tool **aPET** presented at F
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 
-* [The Official Project Page, including source code](http://tools.hats-project.eu)
+* [The Official Project Page](http://tools.hats-project.eu)
 * [Link to download the plugin](http://tools.hats-project.eu/update-site/)
 * [A Video of the Tool](http://tools.hats-project.eu/movies/installplugin.mp4)
 
@@ -15,6 +15,6 @@ In this repository, for aPET, you will find:
 
 * :x: Source code (not available)
 * :white_check_mark: [The original tool](SomeExecutableInTheRepo) (available)
-* :white_check_mark: [A slightly modified version of the tool](AnotherExecutableInTheRepo) [Esha Sharma](https://github.com/EshaSharma) got working (available)
+* :white_check_mark: [A slightly modified version of the tool](AnotherExecutableInTheRepo)(available)
 
 This repository was constructed by [Manish Singh](https://github.com/manish211) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).s
