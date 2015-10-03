@@ -17,4 +17,4 @@ In this repository, for aPET, you will find:
 * :white_check_mark: [The original tool](SomeExecutableInTheRepo) (available)
 * :white_check_mark: [A slightly modified version of the tool](AnotherExecutableInTheRepo)(available)
 
-This repository was constructed by [Manish Singh](https://github.com/manish211) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).s
+This repository was constructed by [Manish Singh](https://github.com/manish211) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson)
